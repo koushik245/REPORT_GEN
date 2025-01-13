@@ -1,1 +1,15 @@
 # REPORT_GEN
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : GUNTA KOUSHIK
+
+**INTERN ID** : CT6WDS2693
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (6)](https://github.com/user-attachments/assets/729dedfc-0ffc-4165-8593-a3740983ccc9)
